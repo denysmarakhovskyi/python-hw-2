@@ -1,51 +1,30 @@
-import sys
-
-# a = int(input('Chose operation number: '))
-# if a == 1:
-#
-# elif a == 2:
-#
-# else:
-#     print('Operation have not been chosen')
-#
-#
-# num = int(input())
+num = int(input())
 
 
 def oddOrEven(num):
     if num % 2 == 0:
-        print(f'Число {num} є парним')
-    # elif num == str:
-    #     return 0
+        print('Число є парним')
     else:
-        print(f'Число {num} є непарним')
+        print('Число є непарним')
 
 
-oddOrEven(1)
-oddOrEven(20)
+print(oddOrEven(num))
+
+print('\n')
+
+str = str(input('Enter string: '))
 
 
-def transStr(string: str):
-    transedStr = string
-    if len(string) > 5:
-        transedStr = transedStr[0:5] + '...'
-    if transedStr[0] in 'Uu':
-        transedStr = transedStr.lower()
-    elif transedStr[0] in 'Ll':
-        transedStr = transedStr.upper()
-    print(transedStr)
+def string(str):
+    fiveSymbols = (str[0:5] + "...")
+    if len(str) > 5:
+        print(fiveSymbols)
+    elif str.startswith('u') or 'U':
+        print(str.upper())
+    elif str.startswith('l') or 'L':
+        print(str.lower())
+    else:
+        print(str)
 
 
-transStr('Testing string')
-transStr('Lux')
-transStr('up')
-transStr('Luxery')
-
-
-def sumNum(num):
-    return num
-
-print(sumNum(38) == 2)
-print(sumNum(40) == 4)
-print(sumNum(48) == 3)
-print(sumNum(2) == 2)
+print(string(str))
