@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f36836c-aa1a-4150-9863-39546906f5ed" name="Changes" comment="">
+    <list default="true" id="3f36836c-aa1a-4150-9863-39546906f5ed" name="Changes" comment="L2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/L2.py" beforeDir="false" afterPath="$PROJECT_DIR$/L2.py" afterDir="false" />
     </list>
@@ -14,7 +14,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -70,8 +72,18 @@
       <workItem from="1658084142982" duration="4914000" />
       <workItem from="1658094756725" duration="2060000" />
       <workItem from="1658505814834" duration="2307000" />
-      <workItem from="1658518963981" duration="31000" />
+      <workItem from="1658518963981" duration="139000" />
+      <workItem from="1658519136365" duration="768000" />
+      <workItem from="1658576032380" duration="3803000" />
     </task>
+    <task id="LOCAL-00001" summary="L2">
+      <created>1658519046470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658519046470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +99,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="L2" />
+    <option name="LAST_COMMIT_MESSAGE" value="L2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_hw_2$L2.coverage" NAME="L2 Coverage Results" MODIFIED="1658161740900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
