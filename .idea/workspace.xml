@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f36836c-aa1a-4150-9863-39546906f5ed" name="Changes" comment="L2">
-      <change afterPath="$PROJECT_DIR$/L2p.py" afterDir="false" />
-    </list>
+    <list default="true" id="3f36836c-aa1a-4150-9863-39546906f5ed" name="Changes" comment="L2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +79,7 @@
       <workItem from="1658518963981" duration="139000" />
       <workItem from="1658519136365" duration="768000" />
       <workItem from="1658576032380" duration="3959000" />
-      <workItem from="1658767378995" duration="458000" />
+      <workItem from="1658767378995" duration="496000" />
     </task>
     <task id="LOCAL-00001" summary="L2">
       <created>1658519046470</created>
